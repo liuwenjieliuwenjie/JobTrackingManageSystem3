@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 10,
+  "data": [
+    {
+      "id": 1,
+      "majorName": "计算机科学与技术学院",
+      "cno": "1001",
+      "period": "2017",
+      "joinDate": "2017-10-12",
+      "num": "40",
+      "classTeacher": "张三",
+      "instructor": "李四"
+    },
+    {
+      "id": 2,
+      "majorName": "计算机科学与技术学院",
+      "cno": "1001",
+      "period": "2017",
+      "joinDate": "2017-10-12",
+      "num": "40",
+      "classTeacher": "张三",
+      "instructor": "李四"
+    },
+    {
+      "id": 3,
+      "majorName": "计算机科学与技术学院",
+      "cno": "1001",
+      "period": "2017",
+      "joinDate": "2017-10-12",
+      "num": "40",
+      "classTeacher": "张三",
+      "instructor": "李四"
+    },
+    {
+      "id": 4,
+      "majorName": "计算机科学与技术学院",
+      "cno": "1001",
+      "period": "2017",
+      "joinDate": "2017-10-12",
+      "num": "40",
+      "classTeacher": "张三",
+      "instructor": "李四"
+    },
+    {
+      "id": 5,
+      "majorName": "计算机科学与技术学院",
+      "cno": "1001",
+      "period": "2017",
+      "joinDate": "2017-10-12",
+      "num": "40",
+      "classTeacher": "张三",
+      "instructor": "李四"
+    },
+    {
+      "id": 6,
+      "majorName": "计算机科学与技术学院",
+      "cno": "1001",
+      "period": "2017",
+      "joinDate": "2017-10-12",
+      "num": "40",
+      "classTeacher": "张三",
+      "instructor": "李四"
+    },
+    {
+      "id": 7,
+      "majorName": "计算机科学与技术学院",
+      "cno": "1001",
+      "period": "2017",
+      "joinDate": "2017-10-12",
+      "num": "40",
+      "classTeacher": "张三",
+      "instructor": "李四"
+    },
+    {
+      "id": 8,
+      "majorName": "计算机科学与技术学院",
+      "cno": "1001",
+      "period": "2017",
+      "joinDate": "2017-10-12",
+      "num": "40",
+      "classTeacher": "张三",
+      "instructor": "李四"
+    },
+    {
+      "id": 9,
+      "majorName": "计算机科学与技术学院",
+      "cno": "1001",
+      "period": "2017",
+      "joinDate": "2017-10-12",
+      "num": "40",
+      "classTeacher": "张三",
+      "instructor": "李四"
+    },
+    {
+      "id": 10,
+      "majorName": "计算机科学与技术学院",
+      "cno": "1001",
+      "period": "2017",
+      "joinDate": "2017-10-12",
+      "num": "40",
+      "classTeacher": "张三",
+      "instructor": "李四"
+    }
+
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 10,
+  "data": [
+    {
+      "id": "1",
+      "companyname": "北京柯蓝科技有限公司",
+      "headofrecruitmentof": "刘海海",
+      "headofSchool":"刘真心",
+      "beginTime":"2020-09-25",
+      "activitySite":"晋城",
+      "operation": "统招"
+
+    },{
+      "id": "2",
+      "companyname": "北京柯蓝科技有限公司",
+      "headofrecruitmentof": "刘海海",
+      "headofSchool":"刘真心",
+      "beginTime":"2020-09-25",
+      "activitySite":"晋城",
+      "operation": "统招"
+
+    },{
+      "id": "3",
+      "companyname": "北京柯蓝科技有限公司",
+      "headofrecruitmentof": "刘海海",
+      "headofSchool":"刘真心",
+      "beginTime":"2020-09-25",
+      "activitySite":"晋城",
+      "operation": "统招"
+
+    },{
+      "id": "4",
+      "companyname": "北京柯蓝科技有限公司",
+      "headofrecruitmentof": "刘海海",
+      "headofSchool":"刘真心",
+      "beginTime":"2020-09-25",
+      "activitySite":"晋城",
+      "operation": "统招"
+
+    },{
+      "id": "5",
+      "companyname": "北京柯蓝科技有限公司",
+      "headofrecruitmentof": "刘海海",
+      "headofSchool":"刘真心",
+      "beginTime":"2020-09-25",
+      "activitySite":"晋城",
+      "operation": "统招"
+
+    },{
+      "id": "6",
+      "companyname": "北京柯蓝科技有限公司",
+      "headofrecruitmentof": "刘海海",
+      "headofSchool":"刘真心",
+      "beginTime":"2020-09-25",
+      "activitySite":"晋城",
+      "operation": "统招"
+
+    },{
+      "id": "7",
+      "companyname": "北京柯蓝科技有限公司",
+      "headofrecruitmentof": "刘海海",
+      "headofSchool":"刘真心",
+      "beginTime":"2020-09-25",
+      "activitySite":"晋城",
+      "operation": "统招"
+
+    },{
+      "id": "8",
+      "companyname": "北京柯蓝科技有限公司",
+      "headofrecruitmentof": "刘海海",
+      "headofSchool":"刘真心",
+      "beginTime":"2020-09-25",
+      "activitySite":"晋城",
+      "operation": "统招"
+
+    },{
+      "id": "9",
+      "companyname": "北京柯蓝科技有限公司",
+      "headofrecruitmentof": "刘海海",
+      "headofSchool":"刘真心",
+      "beginTime":"2020-09-25",
+      "activitySite":"晋城",
+      "operation": "统招"
+
+    },{
+      "id": "10",
+      "companyname": "北京柯蓝科技有限公司",
+      "headofrecruitmentof": "刘海海",
+      "headofSchool":"刘真心",
+      "beginTime":"2020-09-25",
+      "activitySite":"晋城",
+      "operation": "统招"
+
+    }
+
+  ]
+}

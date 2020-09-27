@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 10,
+  "data": [
+    {
+      "id": "1",
+      "companyname": "北京柯蓝科技有限公司",
+      "companycity": "北京",
+      "companyindustry": "计算机金融",
+      "headofrecruitmentof": "刘海海",
+      "headoftel": "15012312312",
+      "statecooperation": "合作中",
+      "hiring": "Java开发"
+    },{
+      "id": "2",
+      "companyname": "北京柯蓝科技有限公司",
+      "companycity": "北京",
+      "companyindustry": "计算机金融",
+      "headofrecruitmentof": "刘海海",
+      "headoftel": "15012312312",
+      "statecooperation": "合作中",
+      "hiring": "Java开发"
+    },{
+      "id": "3",
+      "companyname": "北京柯蓝科技有限公司",
+      "companycity": "北京",
+      "companyindustry": "计算机金融",
+      "headofrecruitmentof": "刘海海",
+      "headoftel": "15012312312",
+      "statecooperation": "合作中",
+      "hiring": "Java开发"
+    },{
+      "id": "4",
+      "companyname": "北京柯蓝科技有限公司",
+      "companycity": "北京",
+      "companyindustry": "计算机金融",
+      "headofrecruitmentof": "刘海海",
+      "headoftel": "15012312312",
+      "statecooperation": "合作中",
+      "hiring": "Java开发"
+    },{
+      "id": "5",
+      "companyname": "北京柯蓝科技有限公司",
+      "companycity": "北京",
+      "companyindustry": "计算机金融",
+      "headofrecruitmentof": "刘海海",
+      "headoftel": "15012312312",
+      "statecooperation": "合作中",
+      "hiring": "Java开发"
+    },{
+      "id": "6",
+      "companyname": "北京柯蓝科技有限公司",
+      "companycity": "北京",
+      "companyindustry": "计算机金融",
+      "headofrecruitmentof": "刘海海",
+      "headoftel": "15012312312",
+      "statecooperation": "合作中",
+      "hiring": "Java开发"
+    },{
+      "id": "7",
+      "companyname": "北京柯蓝科技有限公司",
+      "companycity": "北京",
+      "companyindustry": "计算机金融",
+      "headofrecruitmentof": "刘海海",
+      "headoftel": "15012312312",
+      "statecooperation": "合作中",
+      "hiring": "Java开发"
+    },{
+      "id": "8",
+      "companyname": "北京柯蓝科技有限公司",
+      "companycity": "北京",
+      "companyindustry": "计算机金融",
+      "headofrecruitmentof": "刘海海",
+      "headoftel": "15012312312",
+      "statecooperation": "合作中",
+      "hiring": "Java开发"
+    },{
+      "id": "9",
+      "companyname": "北京柯蓝科技有限公司",
+      "companycity": "北京",
+      "companyindustry": "计算机金融",
+      "headofrecruitmentof": "刘海海",
+      "headoftel": "15012312312",
+      "statecooperation": "合作中",
+      "hiring": "Java开发"
+    },{
+      "id": "10",
+      "companyname": "北京柯蓝科技有限公司",
+      "companycity": "北京",
+      "companyindustry": "计算机金融",
+      "headofrecruitmentof": "刘海海",
+      "headoftel": "15012312312",
+      "statecooperation": "合作中",
+      "hiring": "Java开发"
+    }
+
+  ]
+}
